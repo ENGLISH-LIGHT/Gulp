@@ -1,0 +1,27 @@
+{
+  "name": "mygulp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-uglifyes": "^0.1.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-less": "^3.5.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.3.0",
+    "gulp-uglify": "^3.0.0",
+    "open": "^0.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
